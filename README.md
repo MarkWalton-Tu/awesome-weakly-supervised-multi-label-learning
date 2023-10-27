@@ -101,6 +101,8 @@
   
 - [Partial Multi-Label Learning with Meta Disambiguation](http://www.xiemk.pro/publication/kdd21-pmlmd.pdf). Ming-Kun Xie, Feng Sun, and Sheng-Jun Huang. (**KDD 2021**).
 
+- [Deep Partial Multi-Label Learning with Graph Disambiguation](https://arxiv.org/pdf/2305.05882.pdf). Haobo Wang, Shisong Yang, Gengyu Lyu, WeiWei Liu, Tianlei Hu, Ke Chen, Songhe Feng, Gang Chen. (**IJCAI 2023**). [[Code]](https://gengyulyu.github.io/homepage/).
+
 ## Multi-Label Learning with Noisy Labels (MLNL)
 
 - [CCMN: A General Framework for Learning with Class-Conditional Multi-Label Noise](http://www.xiemk.pro/publication/tpami-ccmn-preprint.pdf). Ming-Kun Xie, Sheng-Jun Huang. (**TPAMI 2022**). [[Code]](http://www.xiemk.pro).
